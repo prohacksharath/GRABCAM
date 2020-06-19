@@ -7,14 +7,6 @@
 
 grabcam is a bash based script which is officially made for termux from this tool can hack you victims camera by simple offer page. This tool works on both rooted Android device and Non-rooted Android device.
 
-[![Build Status](https://img.shields.io/github/stars/noob-hackers/m-wiz.svg)](https://github.com/noob-hackers/grabcam)
-[![Build Status](https://img.shields.io/github/forks/noob-hackers/m-wiz.svg)](https://github.com/noob-hackers/grabcam)
-[![License: MIT](https://img.shields.io/github/license/noob-hackers/m-wiz.svg)](https://github.com/noob-hackers/grabcam)
-[![Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.rawsec.ml/tools.html#grabcam)
-[![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-
 ### ?? ***grabcam is available for***:
 
 * Termux
@@ -68,30 +60,21 @@ Now go and chek your gallery for victim image...
 * Note:- Don't delete any of the scripts included in grabcam files
 
 ### Subscribe our channel on youtube:
-https://www.youtube.com/noobhackers
+https://www.youtube.com/tech vevo
 
 ### Chekout our webite:
-https://www.noob-hackers.com
+sites.google.com/view/tech-vevo
 
 ## ?? ***Join***
 
-### Facebook group: 
-https://www.facebook.com/groups/1936478173310085
-
-### Telegram channel:
-https://t.me/noobhack
-
 ### Facebook page:
-https://www.facebook.com/Noob-Hackers-250938565573643
+https://www.facebook.com/sharathnoone
 
 ### Instagram: 
-https://www.instagram.com/noobhackers352
-
-### Pinterest:
-https://in.pinterest.com/noobhackers
+https://www.instagram.com/sharathchandra3562/
 
 ### My GitHub ID link:
-https://www.github.com/noob-hackers
+https://github.com/prohacksharath
 
 ### ?? Warning
 
