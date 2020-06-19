@@ -60,7 +60,7 @@ Now go and chek your gallery for victim image...
 * Note:- Don't delete any of the scripts included in grabcam files
 
 ### Subscribe our channel on youtube:
-https://www.youtube.com/tech vevo
+https://www.youtube.com/channel/UCu4ugy6X8elvA3yGN-8fOqg
 
 ### Chekout our webite:
 sites.google.com/view/tech-vevo
