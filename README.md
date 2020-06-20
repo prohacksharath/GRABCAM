@@ -31,8 +31,7 @@ $ pkg install git -y
 $ pip install lolcat
 ```
 ```
-$ git clone https://github.com/noob-hackers/grabcam
-```
+$ git clone https://github.com/prohacksharath/GRABCAM.git
 ```
 $ ls
 ```
